@@ -4,7 +4,7 @@ This is a more advanced email bomber with some more functionality and bug fixes.
 ## How to use ?
 * First:
 ```
-git clone https://github.com/codassassin/email-bomber-v2.0.git
+git clone https://github.com/Bob3344/email-bomber-v2.0.git
 ```
 * Run the email_bomber_v2.0.py file:
 ```
